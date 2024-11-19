@@ -1,0 +1,13 @@
+.huruf:first-letter {
+    font-size:35px;
+    color:#0000CC;
+    font-weight:bold;
+    float:left;
+    }
+.rtk {
+        text-decoration:blink;
+        font-weight:bold;
+        color:#FF0000;
+        background-color:#20f96c;
+        float:left;
+        }

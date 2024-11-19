@@ -1,0 +1,15 @@
+/*huruf depan besar */
+.huruf:first-letter {
+    font-size:35px;
+    color:#0000CC;
+    font-weight:bold;
+    float:left;
+    }
+/* membuat warna highlight/stabilo */
+.rtk {
+        text-decoration:blink;
+        font-weight:bold;
+        color:#FF0000;
+        background-color:#20f96c;
+        float:left;
+        }
